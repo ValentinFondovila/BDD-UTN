@@ -1,1 +1,8 @@
-# BDD-UTN
+- Curso: K3521
+- Número de Grupo: 17
+- Integrantes: 
+	- Sofía Muñoz, 203.888-2
+	- Valentín Fondovila, 222.311-9
+	- Gastón Ramirez, 164.141-4
+	- Pablo Rejas, 220.867-2
+- Email del Responsable: somunoz@frba.utn.edu.ar
