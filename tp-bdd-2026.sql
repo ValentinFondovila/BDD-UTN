@@ -241,7 +241,7 @@ select distinct
     M.Cliente_Telefono_Cliente,
     M.Cliente_Email_Cliente
 from gd_esquema.Maestra M INNER JOIN ESTRESHADAS.Localidad L
-    ON L.nom_localidad = M.Cliente_Localidad;
+    ON L.nom_localidad = M.Cliente_Localidad;  
 
 insert into ESTRESHADAS.Estado_Reparacion (desc_estado)
 select distinct
